@@ -1,4 +1,4 @@
-<h1 style="color:#a52a2a;font-family:Georgia"> shell-scripting </h1>
+<h1 style="color:#a52a2a";font-family:Georgia> shell-scripting </h1>
 
 This repo will have the shell scripts
 
